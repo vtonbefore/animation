@@ -1,0 +1,11 @@
+#animateBtn {
+    padding: 15px 30px;
+    font-size: 18px;
+    transition: transform 0.5s ease;
+  }
+  
+  /* Animation Class */
+  .animate {
+    transform: scale(1.5);
+  }
+  
